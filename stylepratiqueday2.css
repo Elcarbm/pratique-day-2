@@ -1,0 +1,20 @@
+body{
+   background-color: #f8edeb ;
+}
+h1{
+    color: #a4133c ;
+    font-style: italic;
+    
+}
+th{
+    background-color: #b5838d ; 
+}
+td{
+    background-color: #e5989b ;
+}
+table{
+    text-align: center;
+}
+img{
+    border-radius: 100%;
+}
